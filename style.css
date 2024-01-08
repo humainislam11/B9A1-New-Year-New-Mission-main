@@ -3,7 +3,7 @@
    
 .section1{
     font-family: 'Merriweather', serif;
-    background: url(Banner\ Image.png);
+    background: url(images/Banner\ Image.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -85,7 +85,7 @@
 
 .section3{
     font-family: 'Merriweather', serif;
-    background: url(Vectorrr.png);
+    background: url(images/Vectorrr.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -335,7 +335,7 @@
     height: 369px;
     margin-left: 290px;
     margin-bottom: 490px;
-    background: url(Rectangle\ 1.png);
+    background: url(images/Rectangle\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 10px bottom;
